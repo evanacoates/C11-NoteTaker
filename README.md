@@ -2,9 +2,11 @@
 
 ## Description
 
-Note taking app refactor.
+Note taking app refactor. This app allows you to write and save notes using an Express.js back end.
 
-## Deployed Application
+## Technologies Used
+
+HTML, CSS, JavaScript, Node.js, Express.js
 
 
 ## License
